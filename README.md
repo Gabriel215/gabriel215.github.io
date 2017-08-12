@@ -4,7 +4,7 @@
 ### [Collaborative research and assessment](/collaboration)  
 ### [Diversity and cultural competency](/diversity)
 ### [Environmental education](/environmental-education)
-### [Sustainablility planning and permaculture design](/sustainablity)
+### [Sustainablility planning and permaculture design](/sustainability)
 ### [Educational consulting and tutoring (K-12, undergraduate, graduate)](/educational-consulting)
 ### [Advocacy and community organizing](/advocacy)
 
