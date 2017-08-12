@@ -1,4 +1,4 @@
-## Gabriel A Piser, Ph.D   |   _Practitioner/Consultant_
+## Gabriel A Piser, Ph.D 
 
 ### [Facilitation and organizational development](gabriel215.github.io/Facilitation)
 ### Collaborative research and assessment  
