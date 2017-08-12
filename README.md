@@ -1,6 +1,6 @@
 ## Gabriel A Piser, Ph.D 
 
-### [Facilitation and organizational development](gabriel215.github.io/Facilitation)
+### [Facilitation and organizational development](/facilitation)
 ### Collaborative research and assessment  
 ### Diversity and cultural competency  
 ### Environmental education
