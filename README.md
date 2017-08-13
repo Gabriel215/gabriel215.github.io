@@ -1,5 +1,6 @@
 ## Gabriel A Piser, Ph.D 
 
+
 ### [Facilitation and organizational development](/facilitation)
 ### [Collaborative research and assessment](/collaboration)  
 ### [Diversity and cultural competency](/diversity)
